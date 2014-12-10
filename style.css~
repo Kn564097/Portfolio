@@ -1,6 +1,6 @@
 
 body {
-	background-color: #A1CCA5;
+	background-color: #9A8F97;
 	font-size: 100%;
 	padding:0;
 	margin: auto;
@@ -10,19 +10,29 @@ body {
 
 #header {
 	font-family: 'Special Elite', cursive;
-	font size: 2em;
+	font-size: 2em;
 	color: white;
-	padding: .2em;
-	margin-left: .5em;
+	padding: .1em;
+	margin-left: .1em;
 	padding-bottom: 8em;
-	background-image: url(city.png);
-	background-repeat: no-repeat;
+	background-image: url(This.jpg);
 	height:80px;
-	display: block;
 	background-position: center;
+	
 }
 
-
+#header1 {
+	font-family: 'Special Elite', cursive;
+	font-size: 2em;
+	color: white;
+	padding: .1em;
+	margin-left: .1em;
+	padding-bottom: 8em;
+	background-image: url(This.jpg);
+	height:80px;
+	background-position: center;
+}
+	
 
 
 
@@ -31,7 +41,7 @@ body {
 	
 
 #mainColumn {
-	color: 788994;
+	color: #E0E0E2;
 	margin: 0 auto;
 	width: 90%;
 }
@@ -39,7 +49,7 @@ body {
 #TabContainer {
 	
 	font-family: 'Special Elite' , cursive;
-	width: 15%;
+	width: 10%;
 	float: left;
 
 	
@@ -49,7 +59,7 @@ body {
 	display:block;
 	width:100%;
 	color: black;
-	background-color: #709775;
+	background-color: #E0E0E2;
 	text-decoration: none;
 	border-top-left-radius: 5em 5em;
 	border-top-right-radius: 5em 5em;
@@ -72,9 +82,9 @@ background-color:black;
 
 #MainContent {
 	font-family: 'Special Elite', cursive;
-	margin-left: 10em;
+	margin-left: 3em;
 	width: 40%;
-	background-color: #709775;;
+	background-color: #E0E0E2;;
 	border-top-left-radius: 5em 5em;
 	border-top-right-radius: 5em 5em;
 	border-bottom-right-radius: 5em 5em;
@@ -103,3 +113,17 @@ background-color:black;
 	float: left;
 }
 
+
+#Circle {
+	border-top-left-radius: 5em 5em;
+	border-top-right-radius: 5em 5em;
+	border-bottom-right-radius: 5em 5em;
+	border-bottom-left-radius: 5em 5em;
+	padding-top: .5em;
+	margin-top: .5em;
+	
+}
+
+
+		
+	

@@ -14,7 +14,7 @@
 <div id="header">
 
 <title> Kristina Nolan Portfolio </title>
-Kristina Nolan Portfolio
+
 
 </div>
 
@@ -39,7 +39,16 @@ Kristina Nolan Portfolio
 
 <div id="MainContent">
 
-<p>Seeking to service as an intern in the area of Communications/Marketing where the sharing of ideas and expertise of the people around me will facilitate continued professional and personal growth. I am a driven visionary dedicated to completing tasks on time and above expectations while continuing to expand my knowledge. Using my superb communication, planning, and organizaitonal skills along with my work experience to date, I believe I would quickly be considered an asset to any organization
+<center><u><h1>Goals </h1></center></u>
+
+<center><p>Seeking to service in the area of Communications/Marketing where the sharing of ideas and expertise of the people around me will facilitate continued professional and personal growth. I am a driven visionary dedicated to completing tasks on time and above expectations while continuing to expand my knowledge. Using my superb communication, planning, and organizaitonal skills along with my work experience to date, I believe I would quickly be considered an asset to any organization. </center>
+
+</div>
+
+<div id="Circle">
+<img src="file:///Users/kristinanolan/Documents/Github/Portfolio/Brain.png" alt="brain">
+</div>
+
 
 		</body>
 		</html>
